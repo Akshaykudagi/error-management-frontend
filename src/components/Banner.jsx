@@ -19,9 +19,9 @@ function Banner() {
 
         {/* Right: Content */}
         <div className="w-full md:w-1/2 text-center md:text-left">
-        <h1 className="font-bold text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4">
+        <h1 className="custom-heading font-bold text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4">
   Discover your<br />
-  Dream Home
+  Dream Home 
 </h1>
 
           <p className="text-sm text-white mb-6">
